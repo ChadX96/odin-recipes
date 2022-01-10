@@ -1,1 +1,3 @@
 # odin-recipes
+
+In this project I will build a basic recipe website, with the knowledge i have acquired thus far. This website will have a main index page with links to a few recipes. I will start and build the initial structure of the webpage. A new directory will be made, which will house the recipe page that I'll create. Next I'll add content to the recipe page such as images, paragraphs, unordered and ordered lists. Lastly, more recipe pages will be added, so we access to more than one recipe.
