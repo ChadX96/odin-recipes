@@ -1,0 +1,29 @@
+#pagehead{
+    background-color: cadetblue;
+    color: snow;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+}    
+
+.sized{width: 500px;
+    height: 320px;
+}
+
+.black28{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+#subhead{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+div{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
